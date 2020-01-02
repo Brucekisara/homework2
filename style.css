@@ -1,0 +1,200 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,
+html,
+div,
+blockquote,
+img,
+label,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+form,
+a,
+fieldset,
+input,
+th,
+td {
+	margin: 0;
+	padding: 0;
+	border: 1;
+	outline: none;
+}
+
+body {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #000000;
+	line-height: 30px;
+	text-align: left;
+	background-color: #fff3d9;
+}
+
+td,
+th {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #000000;
+}
+
+.clearit {
+	clear: both;
+}
+
+A:link {
+	TEXT-DECORATION: none;
+}
+
+A:visited {
+	TEXT-DECORATION: none;
+}
+
+ul,
+li {
+	list-style-type: none;
+	color: #000;
+}
+
+p {
+	line-height: 30px;
+}
+
+a {
+	color: #FF6600;
+}
+
+
+.page {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.logo {
+	width: 200px;
+	margin: 0 auto;
+}
+
+.daohang {
+	height: 40px;
+	background-color: #193b09;
+}
+
+.daohang ul li {
+	float: left;
+	width: 250px;
+	text-align: center;
+	line-height: 40px;
+}
+
+.zhong {
+	margin-top: 20px;
+}
+
+.zuo {
+	float: left;
+	width: 780px;
+}
+
+.you {
+	float: right;
+	width: 200px;
+}
+
+h1 {
+	font-size: 16px;
+	margin-left: 10px;
+	color: #FF6600;
+	line-height: 30px;
+}
+
+.z1 {
+	width: 780px;
+	height: 30px;
+	background-color: #193b09;
+}
+
+.z2 {
+	padding: 20px;
+	background-color: #FFFFFF;
+}
+
+.zhong1 {
+	height: 30px;
+	background-color: #193b09;
+}
+
+.zhong2 {
+	background-color: #FFF;
+	padding-top: 10px;
+	height: 200px;
+}
+
+.tu {
+	float: left;
+	width: 230px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.tu p {
+	text-align: center;
+}
+
+.daohang p {
+	text-align: center;
+	color: #FF6600;
+	line-height: 40px;
+}
+
+.bai {
+	width: 1000px;
+	background-color: #FFFFFF;
+}
+
+.zuo1 {
+	width: 200px;
+	float: left;
+	margin-left: 20px;
+}
+
+.you1 {
+	width: 760px;
+	float: right;
+}
+
+h2 {
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+.tupian {
+	padding-top: 20px;
+}
+
+.you1 p {
+	line-height: 40px;
+}
+
+.t {
+	float: left;
+	width: 323px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+table {
+	padding: 20px;
+}
